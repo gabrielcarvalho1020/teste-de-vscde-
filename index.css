@@ -1,0 +1,7 @@
+.divheader{
+    display: flex;
+    padding-bottom: 0px;
+    flex-direction: column;
+    align-items: flex-start;
+    background-image: 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/csz3oWxd04wgXUzenXgenIVwXGl.jpg';
+}
